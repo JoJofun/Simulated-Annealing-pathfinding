@@ -1,0 +1,10 @@
+D:\BACKUPS\REPOS\Simulated Annealing\bin\Debug\CS489 Pathfinding GUI.exe.config
+D:\BACKUPS\REPOS\Simulated Annealing\bin\Debug\CS489 Pathfinding GUI.exe
+D:\BACKUPS\REPOS\Simulated Annealing\bin\Debug\CS489 Pathfinding GUI.pdb
+D:\BACKUPS\REPOS\Simulated Annealing\obj\Debug\CS489 Pathfinding GUI.csprojAssemblyReference.cache
+D:\BACKUPS\REPOS\Simulated Annealing\obj\Debug\CS489_Pathfinding_GUI.Form1.resources
+D:\BACKUPS\REPOS\Simulated Annealing\obj\Debug\CS489_Pathfinding_GUI.Properties.Resources.resources
+D:\BACKUPS\REPOS\Simulated Annealing\obj\Debug\CS489 Pathfinding GUI.csproj.GenerateResource.cache
+D:\BACKUPS\REPOS\Simulated Annealing\obj\Debug\CS489 Pathfinding GUI.csproj.CoreCompileInputs.cache
+D:\BACKUPS\REPOS\Simulated Annealing\obj\Debug\CS489 Pathfinding GUI.exe
+D:\BACKUPS\REPOS\Simulated Annealing\obj\Debug\CS489 Pathfinding GUI.pdb
